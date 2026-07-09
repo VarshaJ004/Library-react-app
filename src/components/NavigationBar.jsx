@@ -5,7 +5,7 @@ const Navigationbar = () => {
     <div>
       <nav
         className="navbar navbar-expand-lg"
-        style={{ backgroundColor: "#1E3A8A" }}
+        style={{ backgroundColor: "#271801" }}
       >
         <div className="container-fluid">
           <a className="navbar-brand text-white" href="#">Libarary Hub</a>
