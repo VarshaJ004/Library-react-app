@@ -1,4 +1,5 @@
 import React from 'react'
+import Navigationbar from './NavigationBar'
 
 
 
@@ -6,7 +7,7 @@ const AddBook = () => {
   return (
     <div>
 
-     
+     <Navigationbar />
 
       <div className="container mt-5">
 
