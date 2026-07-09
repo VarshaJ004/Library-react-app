@@ -24,10 +24,10 @@ const Navigationbar = () => {
 
           <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div className="navbar-nav">
-              <a className="nav-link text-white active" href="#">Add Book</a>
-              <a className="nav-link text-white" href="#">Search Book</a>
-              <a className="nav-link text-white" href="#">Delete Book</a>
-              <a className="nav-link text-white" href="#">View Book</a>
+              <a className="nav-link text-white active" href="/">Add Book</a>
+              <a className="nav-link text-white" href="/Search">Search Book</a>
+              <a className="nav-link text-white" href="/Delete">Delete Book</a>
+              <a className="nav-link text-white" href="/View">View Book</a>
               
             </div>
           </div>
