@@ -27,6 +27,7 @@ const Navigationbar = () => {
               <a className="nav-link text-white active" href="#">Add Book</a>
               <a className="nav-link text-white" href="#">Search Book</a>
               <a className="nav-link text-white" href="#">Delete Book</a>
+              <a className="nav-link text-white" href="#">View Book</a>
               
             </div>
           </div>
